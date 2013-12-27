@@ -1,0 +1,18 @@
+{
+    "versionLabel": "1.0",
+    "uuid": "20d8c420-68ea-45b9-9ff7-72012d31c3b8",
+    "appKeys": {},
+    "longName": "ClassioWatchface",
+    "versionCode": 1,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "ClassioWatchface",
+    "companyName": "klauvi",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": []
+    }
+}
